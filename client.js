@@ -1,2 +1,5 @@
 // Initializing the first variable 
-let runner  =document.querySelector();
+const ball = ['basketball', 'soccer', 'baseball'];
+
+console.log(ball[1]); // 'soccer'
+
