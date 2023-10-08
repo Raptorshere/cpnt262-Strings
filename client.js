@@ -1,1 +1,2 @@
-const headingElement =document.querySelector("h1");
+// Initializing the first variable 
+let runner  =document.querySelector();
